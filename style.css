@@ -362,3 +362,7 @@ footer p {
     margin-top: -85px;
     transform: rotate(1.5deg);
 }
+.email{
+    text-decoration: none;
+    color: #fff;
+}
